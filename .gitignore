@@ -16,6 +16,9 @@ tmp-file
 # vscode 的隐藏文件
 /.vscode
 
+# vs 的隐藏文件
+.vs/
+
 # This file is used to ignore files which are generated
 # ----------------------------------------------------------------------------
 
